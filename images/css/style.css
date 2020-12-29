@@ -1,0 +1,50 @@
+.mybody
+{
+
+    background-image: url("../ice1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 900%;
+
+}
+.hh
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: x-large;
+    text-align: center;
+    color:white;
+}
+.new
+{
+    
+    color:rgb(22, 20, 20);
+
+}
+.demo
+{
+
+
+    background-image: url("../ice2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 500%;
+    
+
+}
+.myfile
+{
+    background-image: url("../ice\ cream.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 500%;
+
+}
+.hhh
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: x-large;
+    text-align: left;
+    color:indigo;
+
+}
+
+
